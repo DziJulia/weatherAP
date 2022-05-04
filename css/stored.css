@@ -1,0 +1,24 @@
+      /*ERRORS */
+      .error{
+        color: rgb(255, 31, 31);
+        font-size: small;
+      }
+             /*style for buton */
+   .btn {
+    border: none;
+    background: rgb(128,128,128);
+    text-align: center;
+    cursor: pointer;
+    margin: 20px;
+    position: relative;
+    color: white;
+  }
+      /* lighter background on mouse-over */
+      .btn:hover {
+        background-color: rgb(196, 192, 192);
+      }
+
+      .down{
+        margin-top: 100px;
+        
+      }

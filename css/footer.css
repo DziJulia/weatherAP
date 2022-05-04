@@ -1,0 +1,33 @@
+#bottom {
+    z-index: 0;
+    margin-top: 25px;
+    color: rgb(128,128,128);
+  }
+
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#logoF {
+    max-width: 80px;
+    min-width: 50px;
+  }
+a{
+    color: rgb(128,128,128);
+}
+.line{
+top: 0;
+left: 0;
+width: 100%;
+object-fit: cover;
+}
+.copyright{
+  background-color:rgb(128,128,128);;
+  color:  lightgrey;
+font-size: 9pt;
+padding: 10px;
+margin-bottom: 0;
+width: 100%;
+}
