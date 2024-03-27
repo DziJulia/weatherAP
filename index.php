@@ -14,7 +14,7 @@
 	
 //	$endDateTime=extractParam($segments,4, $query_params, "todate");
 	$aggregateHours=24;
-	$apiKey="M3Q7B8F5XWUCYQPFMQYXTS9VV";
+	$apiKey="";
 
 
   function isValidLongitude($longitude){
